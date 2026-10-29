@@ -17,6 +17,8 @@ env/
 dataset/*
 !dataset/.gitkeep
 data/
+*_dataset/
+*_dataset - Shortcut
 
 # Model artifacts
 *.h5
